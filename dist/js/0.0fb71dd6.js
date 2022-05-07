@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkapp"]=self["webpackChunkapp"]||[]).push([[0],{2e3:function(e,n,t){t.r(n),t.d(n,{default:function(){return p}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 团购订单 ")])},a=[],r={},c=r,f=t(1001),l=(0,f.Z)(c,u,a,!1,null,"1cafafd3",null),p=l.exports}}]);
